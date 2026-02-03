@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 1,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "In order to convert a milliammeter of range 1.0 mA and resistance 1.0 $\\Omega$ into a voltmeter of range 10 V, a resistance of how many ohms should be connected with it and in what manner?",
+    "options": [
+      "999 $\\Omega$ in series",
+      "999 $\\Omega$ in parallel",
+      "9,999 $\\Omega$ in series",
+      "9,999 $\\Omega$ in parallel"
+    ],
+    "correct": 2,
+    "solution": "To convert milliammeter to voltmeter, we need high resistance in series. $V = I(r + R)$, $10 = 10^{-3}(1 + R)$, $R = 9999 \\Omega$",
+    "is_latex": false
+  },
+  {
+    "id": 2,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "The electron emitted in $\\beta$-radiation originates from:",
+    "options": [
+      "inner orbits of atoms",
+      "free electrons existing in nuclei",
+      "decay of a neutron in a nucleus",
+      "photon escaping from the nucleus"
+    ],
+    "correct": 2,
+    "solution": "$\\beta$-radiation occurs when a neutron decays into a proton and an electron. The electron is then emitted.",
+    "is_latex": false
+  },
+  {
+    "id": 3,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "A conducting wheel is rolling on the ground in a uniform magnetic field $B_0$. The emf induced between points A and B; $V_A - V_B$ will be:",
+    "options": [
+      "$2B_0\\omega(\\sqrt{3}R)$",
+      "$\\frac{3B_0\\omega R^2}{2}$",
+      "$2B_0\\omega(2R)$",
+      "$\\frac{5B_0\\omega R^2}{2}$"
+    ],
+    "correct": 1,
+    "solution": "Using motional emf formula: $\\epsilon = \\frac{B_0\\omega R^2}{2}(\\sqrt{3})^2 = \\frac{3B_0\\omega R^2}{2}$",
+    "is_latex": false
+  },
+  {
+    "id": 4,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Forces acting on a particle moving in a straight line varies with the velocity of the particle as $F = \\alpha v$ where $\\alpha$ is constant. The work done by this force in time interval $t$ is:",
+    "options": [
+      "$\\alpha t$",
+      "$\\frac{\\alpha t^2}{2}$",
+      "$\\alpha^2 t$",
+      "$\\alpha^2 t^2$"
+    ],
+    "correct": 0,
+    "solution": "$W = \\int F \\cdot v \\, dt = \\int \\alpha v \\cdot v \\, dt$. Since $F = \\alpha v$, work done is $\\alpha t$",
+    "is_latex": false
+  },
+  {
+    "id": 5,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "In the circuit with diodes $D_1$ and $D_2$, 20V supply and 5$\\Omega$ resistor, choose the correct answer:",
+    "options": [
+      "Voltage across $D_2$ is 20 Volt",
+      "Voltage across $D_1$ is 20 Volt",
+      "Current through diode $D_1$ is 4A",
+      "Current through diode $D_1$ is 0 A"
+    ],
+    "correct": 2,
+    "solution": "$D_1$ acts as short circuit, $D_2$ acts as open circuit. Current through $D_1 = \\frac{20}{5} = 4A$",
+    "is_latex": false
+  },
+  {
+    "id": 6,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "A ferromagnetic substance when heated beyond Curie temperature becomes:",
+    "options": [
+      "diamagnetic",
+      "ferromagnetic",
+      "nonmagnetic",
+      "paramagnetic"
+    ],
+    "correct": 3,
+    "solution": "Above Curie temperature, ferromagnetic materials lose their permanent magnetic properties and become paramagnetic.",
+    "is_latex": false
+  },
+  {
+    "id": 7,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "The resultant of $\\vec{A}$ and $\\vec{B}$ is perpendicular to $\\vec{A}$. What is the angle between $\\vec{A}$ and $\\vec{B}$?",
+    "options": [
+      "$\\cos^{-1}\\left(\\frac{A}{B}\\right)$",
+      "$\\cos^{-1}\\left(-\\frac{A}{B}\\right)$",
+      "$\\sin^{-1}\\left(\\frac{A}{B}\\right)$",
+      "$\\sin^{-1}\\left(-\\frac{A}{B}\\right)$"
+    ],
+    "correct": 1,
+    "solution": "When resultant is perpendicular to $\\vec{A}$: $\\cos(180° - \\theta) = \\frac{A}{B}$, so $\\theta = \\cos^{-1}\\left(-\\frac{A}{B}\\right)$",
+    "is_latex": false
+  },
+  {
+    "id": 8,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "In a radioactive reaction an unstable nucleus A disintegrates into a stable nucleus B. But A is generated at a constant rate of $q$ nucleus per second. At steady state number of nucleus of A will be:",
+    "options": [
+      "$q$",
+      "$\\frac{q}{\\lambda}$",
+      "$q - \\lambda$",
+      "$\\frac{q}{q-\\lambda}$"
+    ],
+    "correct": 1,
+    "solution": "At steady state: Rate of generation = Rate of decay. $q = \\lambda N_A$, therefore $N_A = \\frac{q}{\\lambda}$",
+    "is_latex": false
+  },
+  {
+    "id": 9,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "A block slides down an inclined plane of inclination $\\theta$ with constant velocity. It is then projected up the plane with an initial speed $u$. How far up the incline will it move before coming to rest?",
+    "options": [
+      "$\\frac{u^2}{4g\\sin\\theta}$",
+      "$\\frac{u^2}{g\\sin\\theta}$",
+      "$\\frac{u^2}{2g\\sin\\theta}$",
+      "$\\frac{u^2}{4g}$"
+    ],
+    "correct": 0,
+    "solution": "Since block slides with constant velocity, friction $= mg\\sin\\theta$. When going up: deceleration $= 2g\\sin\\theta$. Distance $= \\frac{u^2}{4g\\sin\\theta}$",
+    "is_latex": false
+  },
+  {
+    "id": 10,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Three conductors 1, 2, and 3 each carrying the same current $I$ are placed in a uniform magnetic field $B$. The forces experienced by conductors 1, 2 and 3 are $F_1$, $F_2$ and $F_3$, respectively:",
+    "options": [
+      "$F_3 > F_2 > F_1$",
+      "$F_1 \\neq 0$; $F_2 \\neq 0$; $F_3 = 0$",
+      "$F_1$ acts upwards, $F_2$ acts downwards; $F_3 = 0$",
+      "All experience the same force in same direction"
+    ],
+    "correct": 3,
+    "solution": "Force $F = I(\\vec{L} \\times \\vec{B})$. All conductors have same effective length and current, so all experience same force.",
+    "is_latex": false
+  },
+  {
+    "id": 11,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Physics Question 11 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 11",
+    "is_latex": false
+  },
+  {
+    "id": 12,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Physics Question 12 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 12",
+    "is_latex": false
+  },
+  {
+    "id": 13,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Physics Question 13 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 13",
+    "is_latex": false
+  },
+  {
+    "id": 14,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Physics Question 14 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 14",
+    "is_latex": false
+  },
+  {
+    "id": 15,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Physics Question 15 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 15",
+    "is_latex": false
+  },
+  {
+    "id": 16,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Physics Question 16 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 16",
+    "is_latex": false
+  },
+  {
+    "id": 17,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Physics Question 17 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 17",
+    "is_latex": false
+  },
+  {
+    "id": 18,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Physics Question 18 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 18",
+    "is_latex": false
+  },
+  {
+    "id": 19,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Physics Question 19 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 19",
+    "is_latex": false
+  },
+  {
+    "id": 20,
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Physics Question 20 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 20",
+    "is_latex": false
+  },
+  {
+    "id": 21,
+    "subject": "Physics",
+    "type": "numerical",
+    "question": "Physics Question 21 (Add your question here with proper LaTeX formatting)",
+    "options": null,
+    "correct": 0,
+    "solution": "Solution for question 21",
+    "is_latex": false
+  },
+  {
+    "id": 22,
+    "subject": "Physics",
+    "type": "numerical",
+    "question": "Physics Question 22 (Add your question here with proper LaTeX formatting)",
+    "options": null,
+    "correct": 0,
+    "solution": "Solution for question 22",
+    "is_latex": false
+  },
+  {
+    "id": 23,
+    "subject": "Physics",
+    "type": "decimal",
+    "question": "Physics Question 23 (Add your question here with proper LaTeX formatting)",
+    "options": null,
+    "correct": 0.0,
+    "solution": "Solution for question 23",
+    "is_latex": false
+  },
+  {
+    "id": 24,
+    "subject": "Physics",
+    "type": "decimal",
+    "question": "Physics Question 24 (Add your question here with proper LaTeX formatting)",
+    "options": null,
+    "correct": 0.0,
+    "solution": "Solution for question 24",
+    "is_latex": false
+  },
+  {
+    "id": 25,
+    "subject": "Physics",
+    "type": "decimal",
+    "question": "Physics Question 25 (Add your question here with proper LaTeX formatting)",
+    "options": null,
+    "correct": 0.0,
+    "solution": "Solution for question 25",
+    "is_latex": false
+  },
+  {
+    "id": 26,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 26 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 26",
+    "is_latex": false
+  },
+  {
+    "id": 27,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 27 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 27",
+    "is_latex": false
+  },
+  {
+    "id": 28,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 28 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 28",
+    "is_latex": false
+  },
+  {
+    "id": 29,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 29 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 29",
+    "is_latex": false
+  },
+  {
+    "id": 30,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 30 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 30",
+    "is_latex": false
+  },
+  {
+    "id": 31,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 31 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 31",
+    "is_latex": false
+  },
+  {
+    "id": 32,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 32 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 32",
+    "is_latex": false
+  },
+  {
+    "id": 33,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 33 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 33",
+    "is_latex": false
+  },
+  {
+    "id": 34,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 34 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 34",
+    "is_latex": false
+  },
+  {
+    "id": 35,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 35 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 35",
+    "is_latex": false
+  },
+  {
+    "id": 36,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 36 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 36",
+    "is_latex": false
+  },
+  {
+    "id": 37,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 37 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 37",
+    "is_latex": false
+  },
+  {
+    "id": 38,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 38 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 38",
+    "is_latex": false
+  },
+  {
+    "id": 39,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 39 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 39",
+    "is_latex": false
+  },
+  {
+    "id": 40,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 40 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 40",
+    "is_latex": false
+  },
+  {
+    "id": 41,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 41 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 41",
+    "is_latex": false
+  },
+  {
+    "id": 42,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 42 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 42",
+    "is_latex": false
+  },
+  {
+    "id": 43,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 43 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 43",
+    "is_latex": false
+  },
+  {
+    "id": 44,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 44 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 44",
+    "is_latex": false
+  },
+  {
+    "id": 45,
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Chemistry Question 45 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 45",
+    "is_latex": false
+  },
+  {
+    "id": 46,
+    "subject": "Chemistry",
+    "type": "numerical",
+    "question": "Chemistry Question 46 (Add your question here with proper LaTeX formatting)",
+    "options": null,
+    "correct": 0,
+    "solution": "Solution for question 46",
+    "is_latex": false
+  },
+  {
+    "id": 47,
+    "subject": "Chemistry",
+    "type": "numerical",
+    "question": "Chemistry Question 47 (Add your question here with proper LaTeX formatting)",
+    "options": null,
+    "correct": 0,
+    "solution": "Solution for question 47",
+    "is_latex": false
+  },
+  {
+    "id": 48,
+    "subject": "Chemistry",
+    "type": "decimal",
+    "question": "Chemistry Question 48 (Add your question here with proper LaTeX formatting)",
+    "options": null,
+    "correct": 0.0,
+    "solution": "Solution for question 48",
+    "is_latex": false
+  },
+  {
+    "id": 49,
+    "subject": "Chemistry",
+    "type": "decimal",
+    "question": "Chemistry Question 49 (Add your question here with proper LaTeX formatting)",
+    "options": null,
+    "correct": 0.0,
+    "solution": "Solution for question 49",
+    "is_latex": false
+  },
+  {
+    "id": 50,
+    "subject": "Chemistry",
+    "type": "decimal",
+    "question": "Chemistry Question 50 (Add your question here with proper LaTeX formatting)",
+    "options": null,
+    "correct": 0.0,
+    "solution": "Solution for question 50",
+    "is_latex": false
+  },
+  {
+    "id": 51,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Let $a \\neq 1$ be a real number and $f(x) = \\log_a(x^2)$ for $x > 0$. If $f^{-1}$ is the inverse function of $f$ and $b$ and $c$ are real numbers then $f^{-1}(b + c)$ is equal to:",
+    "options": [
+      "$f^{-1}(b) \\cdot f^{-1}(c)$",
+      "$f^{-1}(b) + f^{-1}(c)$",
+      "$f^{-1}(bc)$",
+      "$\\frac{1}{f^{-1}(b) \\cdot f^{-1}(c)}$"
+    ],
+    "correct": 0,
+    "solution": "$f(x) = 2\\log_a(x)$, $f^{-1}(y) = a^{y/2}$. $f^{-1}(b+c) = a^{(b+c)/2} = a^{b/2} \\cdot a^{c/2} = f^{-1}(b) \\cdot f^{-1}(c)$",
+    "is_latex": false
+  },
+  {
+    "id": 52,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "The function $f(x) = \\frac{\\ln(e + x)}{\\ln(e - x)}$ $(x \\neq 0)$ is:",
+    "options": [
+      "increasing in $[0, \\infty)$",
+      "decreasing in $[0, \\infty)$",
+      "increasing in $[0, e)$ and decreasing in $(e, \\infty)$",
+      "decreasing in $[0, e)$ and increasing in $(e, \\infty)$"
+    ],
+    "correct": 1,
+    "solution": "Taking derivative and analyzing: $f'(x) < 0$ for all $x > 0$, hence decreasing in $[0, \\infty)$",
+    "is_latex": false
+  },
+  {
+    "id": 53,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Locus of all points $P(x, y)$ satisfying $x^3 + y^3 = 3xy + 1$ consists of union of:",
+    "options": [
+      "a line and an isolated point",
+      "a line pair and an isolated point",
+      "a line and a circle",
+      "a circle and an isolated point"
+    ],
+    "correct": 0,
+    "solution": "$(x + y - 1)(x^2 + y^2 - xy + x + y + 1) = 0$. This gives line $x + y = 1$ and an isolated point.",
+    "is_latex": false
+  },
+  {
+    "id": 54,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Mathematics Question 54 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 54",
+    "is_latex": false
+  },
+  {
+    "id": 55,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Mathematics Question 55 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 55",
+    "is_latex": false
+  },
+  {
+    "id": 56,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Mathematics Question 56 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 56",
+    "is_latex": false
+  },
+  {
+    "id": 57,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Mathematics Question 57 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 57",
+    "is_latex": false
+  },
+  {
+    "id": 58,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Mathematics Question 58 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 58",
+    "is_latex": false
+  },
+  {
+    "id": 59,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Mathematics Question 59 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 59",
+    "is_latex": false
+  },
+  {
+    "id": 60,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Mathematics Question 60 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 60",
+    "is_latex": false
+  },
+  {
+    "id": 61,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Mathematics Question 61 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 61",
+    "is_latex": false
+  },
+  {
+    "id": 62,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Mathematics Question 62 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 62",
+    "is_latex": false
+  },
+  {
+    "id": 63,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Mathematics Question 63 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 63",
+    "is_latex": false
+  },
+  {
+    "id": 64,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Mathematics Question 64 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 64",
+    "is_latex": false
+  },
+  {
+    "id": 65,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Mathematics Question 65 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 65",
+    "is_latex": false
+  },
+  {
+    "id": 66,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Mathematics Question 66 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 66",
+    "is_latex": false
+  },
+  {
+    "id": 67,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Mathematics Question 67 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 67",
+    "is_latex": false
+  },
+  {
+    "id": 68,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Mathematics Question 68 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 68",
+    "is_latex": false
+  },
+  {
+    "id": 69,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Mathematics Question 69 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 69",
+    "is_latex": false
+  },
+  {
+    "id": 70,
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Mathematics Question 70 (Add your question here with proper LaTeX formatting)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correct": 0,
+    "solution": "Solution for question 70",
+    "is_latex": false
+  },
+  {
+    "id": 71,
+    "subject": "Mathematics",
+    "type": "numerical",
+    "question": "Mathematics Question 71 (Add your question here with proper LaTeX formatting)",
+    "options": null,
+    "correct": 0,
+    "solution": "Solution for question 71",
+    "is_latex": false
+  },
+  {
+    "id": 72,
+    "subject": "Mathematics",
+    "type": "numerical",
+    "question": "Mathematics Question 72 (Add your question here with proper LaTeX formatting)",
+    "options": null,
+    "correct": 0,
+    "solution": "Solution for question 72",
+    "is_latex": false
+  },
+  {
+    "id": 73,
+    "subject": "Mathematics",
+    "type": "decimal",
+    "question": "Mathematics Question 73 (Add your question here with proper LaTeX formatting)",
+    "options": null,
+    "correct": 0.0,
+    "solution": "Solution for question 73",
+    "is_latex": false
+  },
+  {
+    "id": 74,
+    "subject": "Mathematics",
+    "type": "decimal",
+    "question": "Mathematics Question 74 (Add your question here with proper LaTeX formatting)",
+    "options": null,
+    "correct": 0.0,
+    "solution": "Solution for question 74",
+    "is_latex": false
+  },
+  {
+    "id": 75,
+    "subject": "Mathematics",
+    "type": "decimal",
+    "question": "Mathematics Question 75 (Add your question here with proper LaTeX formatting)",
+    "options": null,
+    "correct": 0.0,
+    "solution": "Solution for question 75",
+    "is_latex": false
+  }
+]
